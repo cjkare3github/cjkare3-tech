@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
             <div className="bg-black p-2 rounded">
               <img 
                 src="/src/images/cj.png" 
-                alt="Nyayo Africa Expeditions" 
+                alt="cjkare3 Technology" 
                 className="h-8"
               />
             </div>

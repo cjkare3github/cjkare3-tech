@@ -1,0 +1,4 @@
+github	https://github.com/cjkare3github/cjkare3-technology.git (fetch)
+github	https://github.com/cjkare3github/cjkare3-technology.git (push)
+origin	https://github.com/cjkare3github/cjkare3-technology.git (fetch)
+origin	https://github.com/cjkare3github/cjkare3-technology.git (push)
