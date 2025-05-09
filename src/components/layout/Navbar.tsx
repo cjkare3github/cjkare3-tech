@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
             <div className="bg-black p-2 rounded">
               <img 
                 src="/src/images/cj.png" 
-                alt="" 
+                alt="cjkare3 technology" 
                 className="h-8"
               />
             </div>
